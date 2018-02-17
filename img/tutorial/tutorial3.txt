@@ -1,0 +1,20 @@
+Ho cominciato la modellazione tramite un piano e ho creato dei loop in corrispondenza della curvatura del bidet. Con il comado scale ho ridotto le dimensioni della parte posteriore.
+
+Aggiungendo ulteriori swiftloop e con i comandi shift+move e shift+scale modello la struttura interna ed esterna.
+
+Sempre utilizzando i camandi Shift+Move e SHift+Scale realizzo i sistemi di scolo.
+
+Creazione di un tappo a copertura del duco di scolo principale.
+
+Applico il turbosmooth con tre interazioni in modo da smussare mene l'oggetto ma attivando isoline display per capirne bene la struttura.
+
+
+
+
+Dopo aver posizionato le tre viste dell'oggetto su tre piani ortogonali modellare metà parete esterna. Con i comandi mirror, move, attach e weld uniformiamo il pezzo.
+
+Procedo allo stesso modo per la parte interna.
+
+Dopo aver collocato la parte interna dentro a quella esterna procedo a unificarli tramite i comandi bridge e weld.
+
+Infine applico il turbosmooth e applico degli swiftloop per renderla identica al reale.
